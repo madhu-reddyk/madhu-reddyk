@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm madhukar reddy kolanu👋
 
-<!--
-**madhu-reddyk/madhu-reddyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+**Date of birth:** 05 may 2003
+**college:** Anurag University, hyderabad
+**coruse enrolled:** Eletric Vehicles @intellipaat
+**Fresher:** 2024 graduate 
 
-Here are some ideas to get you started:
+  I'm passionate about electric vehicles and continously seek opportunities to expand my knowledge in this field . 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##skills & intrests
+  **Electric vehicle technology**
+  **Automation in manufacturing**
+  **coding(python, MATLAB for engineering applications)**
+
+  *lets innovate together! feel free to connect and collaborate.*
+  
+      
+  
