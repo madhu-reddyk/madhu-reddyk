@@ -3,6 +3,7 @@
 ## About Me
 **Date of birth:** 05 may 2003
 **college:** Anurag University, hyderabad
+**branch:** Mechanical engineer
 **coruse enrolled:** Eletric Vehicles @intellipaat
 **Fresher:** 2024 graduate 
 
